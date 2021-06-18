@@ -1,7 +1,7 @@
 ## ❓What is The Use of This Code
 
 
-- With This Code You Can Make Your Friends Fool They Will Se You You Are Mute And Deafened But You Can Listen Everything And Also You Can Speak Lmao 
+- With This Code You Can Make Your Friends Fool They Will Se You Are Muted And Deafened But You Can Listen Everything And Also You Can Speak Lmao 
 - So What Your Are Waiting For Use It Now 😂
 
 ## 🔗Your Discord Server
