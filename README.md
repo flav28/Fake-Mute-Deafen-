@@ -11,6 +11,9 @@
 
 ## 🖥 MAIN CODE
 
+##How To Use This Code
+```dif
+Simply Copy This Code And Paste It Into Your Discord Console !! To Open Your Dicord Console `Press CTRL Shif + I` To Open Your Console 
 ```css
 
 var text = new TextDecoder("utf-8");
