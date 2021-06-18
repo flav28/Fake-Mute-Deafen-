@@ -4,7 +4,7 @@
 - With This Code You Can Make Your Friends Fool They Will Se You Are Muted And Deafened But You Can Listen Everything And Also You Can Speak Lmao 
 - So What Your Are Waiting For Use It Now 😂
 
-## 🔗Your Discord Server
+## 🔗Join Your Discord Server
 
 
 - [Join Developers Adda](https://dsc.gg/developersarena)
