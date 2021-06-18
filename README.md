@@ -7,7 +7,7 @@
 ## 🔗Your Discord Server
 
 
-- [ Developers Adda](https://dsc.gg/developersarena)
+- [Join Developers Adda](https://dsc.gg/developersarena)
 
 ##MAIN CODE
 
