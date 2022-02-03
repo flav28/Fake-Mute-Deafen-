@@ -7,7 +7,7 @@
 ## 🔗Join Your Discord Server
 
 
-- [Join Developers Adda](https://dsc.gg/developersarena)
+- [Join Developers Adda](https://discord.gg/RNwSfFHcaB)
 
 ## 🖥 MAIN CODE
 
