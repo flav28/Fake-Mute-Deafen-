@@ -26,8 +26,7 @@ WebSocket.prototype.original = WebSocket.prototype.send;
 WebSocket.prototype.send = function(data) {
     if (Object.prototype.toString.call(data) === "[object ArrayBuffer]") {
         if (text.decode(data).includes("self_deaf")) {
-            console.log("found mute/deafen");
-            data = data.replace('"self_mute":false', 'https://dsc.gg/developersarena');
+            data = data.replace('"self_mute":false', 'https://discord.gg/RNwSfFHcaB');
             console.log("By Vishal CodeZ");
         }
     }
