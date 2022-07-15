@@ -13,14 +13,6 @@
 
 ##How To Use This Code
 
-
-```
-FIRST YOU NEED TO ENABLE DISCORD INSPECT ELEMENT PAGE
-
-BY ADDING BELOW CODE TO YOUR MAIN DISCORD FOLDER SETTINGS.JSON FILE
-
-```
-
 Simply Copy This Code And Paste It Into Your Discord Console !! 
 To Open Your Dicord Console `Press CTRL Shif + I` To Open Your Console
 ```
