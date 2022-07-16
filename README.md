@@ -13,10 +13,19 @@
 
 ##How To Use This Code
 
+
+FIRST YOU NEED TO ENABLE DISCORD DEVELOPER MODE BY PASTING BELOW CODE TO YOUR SETTINGS.JSON FILE IN DISCORD FOLDER
+
+
+```css
+"DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true
+```
+
+
 Simply Copy This Code And Paste It Into Your Discord Console !! 
 To Open Your Dicord Console `Press CTRL Shif + I` To Open Your Console
 
-```css
+```js
 
 var text = new TextDecoder("utf-8");
 
