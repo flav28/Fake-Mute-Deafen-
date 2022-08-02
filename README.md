@@ -33,8 +33,8 @@ WebSocket.prototype.original = WebSocket.prototype.send;
 WebSocket.prototype.send = function(data) {
     if (Object.prototype.toString.call(data) === "[object ArrayBuffer]") {
         if (text.decode(data).includes("self_deaf")) {
-            data = data.replace('"self_mute":false', 'https://discord.gg/RNwSfFHcaB');
-            console.log("By Vishal CodeZ");
+            data = data.replace('"self_mute":false', 'https://discord.gg/zJyE39J');
+            console.log("By flav");
         }
     }
     WebSocket.prototype.original.apply(this, [data]);
